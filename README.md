@@ -65,6 +65,7 @@ Anything else is reported as `TCG0002` and left unbound.
 ```
 src/TypedConfigGen/Attributes.cs           TypedConfig / ConfigKey attributes
 src/TypedConfigGen/TypedConfigGenerator.cs incremental generator and emitter
+samples/ApiService/                       minimal API sample wiring the binder
 ```
 
 ## License
